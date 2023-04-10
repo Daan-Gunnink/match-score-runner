@@ -4,6 +4,7 @@ require('dotenv').config()
 
 // required
 const Bree = require('bree');
+console.log(Date.now())
 const bree = new Bree({
   jobs: [
     {
