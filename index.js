@@ -9,21 +9,21 @@ const bree = new Bree({
     {
       name: 'fetch-countries',
       timeout: false,
-      interval: 'at 13:30'
+      interval: 'at 13:40'
     },
     {
       name: 'fetch-leagues',
       timeout: false,
-      interval: 'at 13:32'
+      interval: 'at 13:42'
     },
     {
       name: 'fetch-standings',
       timeout: false,
-      interval: 'at 13:35'
+      interval: 'at 13:45'
     },
     {
       name: 'fetch-fixtures',
-      interval: 'at 13:40'
+      interval: 'at 13:50'
     }
   
   ],
